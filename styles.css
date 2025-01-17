@@ -4,3 +4,13 @@
 body {
   font-family: sans-serif;
 }
+#introduction p {
+  font-family: cursive;
+  colour: aquamarine;
+}
+section h1 {
+  font-size: 30px;
+}
+#hobbies ul.hobby{
+  colour: blue;
+}
