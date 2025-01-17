@@ -12,6 +12,6 @@ body {
 section h1 {
   font-size: 30px;
 }
-#hobbies ul.hobby{
-  color: blue;
+#hobbies hobby.li{
+  color: crimson;
 }
